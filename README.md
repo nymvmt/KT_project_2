@@ -34,3 +34,39 @@
 ### 그외 노트(노션 등) 링크
 - https://www.notion.so/2616156a6141802cb94acf498b0e5df8?source=copy_link
 
+## 작업 계획
+DB설정할 때 하드코딩할 거
+User Service - 빠르게 제가 만들고요
+Location Service 
+
+## 역할 분담
+아래 4파트로 나누어 각 팀원이 개별 구현 후 통합
+- Appointment, Guest 
+- Feedback 
+- Notification 
+- Recommendation
+- (+ 심심이 대화 Conversation은 시간이 남으면 도전)
+
+
+## 작업 계획
+9/8월
+- 개발 환경 세팅 완료
+- DB sql 초기데이터 등록
+- User Service 간략히 구현
+- Location Service 간략히 구현
+- Azure 서비스 스택 선정
+9/9화
+- Appointment, Guest, Feedback, Notification : 구현 절반 완료
+- Recommendation : 구현 시작
+9/10수
+- Appointment, Guest, Feedback, Notification : 구현 완료
+- Recommendation : 구현 절반 완료
+9/11목
+- Appointment, Guest, Feedback, Notification, Recommendation : Azure 배포 및 트러블 슈팅
+- Recommendation : 구현 완료
+9/12금
+- Azure 배포 완료
+- 시연 영상 제작
+- 보고 문서 정리
+- 발표 자료 작성
+- 발표
