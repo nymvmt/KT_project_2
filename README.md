@@ -1,4 +1,3 @@
-```markdown
 # ☕ KT_APR-B_FullStack_Project2 (Team)
 
 ## 📌 집계 리포지토리
@@ -85,6 +84,3 @@
 - 최종 발표  
 
 ---
-```
-
-혹시 이 README에 **시스템 아키텍처 다이어그램**도 포함되면 더 좋을까요? (Miro 보드 기반)
