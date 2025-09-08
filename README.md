@@ -9,9 +9,11 @@
 ### 9/8 (월)
 - 개발 환경 세팅 완료 ✅ : 각자 로컬에서 git clone 받아온 각 서비스 repository 내에서 하면 됨. Docker, Azure Web App, Azure MySQL Flexible Server도 초기 설정 완료됨.
 - Azure 서비스 스택 선정 ✅ : pivot -> 기획 큰 틀 잡음. Document Understanding(OCR), Video Understanding 사용 시도할 예정임.
-- DB SQL 초기데이터 등록  ✅ : 혜지가 남아서 해줌.
+- DB SQL 초기데이터 등록  ➡️ : 혜지가 남아서 진행 중이었고, 내일 아침까지 init-db.sql 파일 생성 예정.
 - 역할 분담 ✅ : 각자 맡아서 개발할 Service 나눴고, 각자 맡은 Service 개발 착수함.
-- User, Location Service 간단 구현 ➡️ : 내일로 미룸.
+- User, Location Service 간단 구현 ➡️ : 나영이 남아서 진행 중이었고, User 됐고, Location까지 내일 아침까지 구현 완료 예정.
+- API 명세서 최종 확인, 오타 확인 ➡️ : 현지가 남아서 진행 중이었고, 내일 아침까지 확인 완료 예정.
+- Appointment Service 간단 구현 ➡️ : 태규가 남아서 진행 중이었고, 내일까지 구현 완료 예정.
 
 ### 9/9 (화)
 - User, Location Service 간단 구현 완료.
