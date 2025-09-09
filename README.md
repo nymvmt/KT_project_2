@@ -9,20 +9,26 @@
 ### 9/8 (월)
 - 개발 환경 세팅 완료 ✅ : 각자 로컬에서 git clone 받아온 각 서비스 repository 내에서 하면 됨. Docker, Azure Web App, Azure MySQL Flexible Server도 초기 설정 완료됨.
 - Azure 서비스 스택 선정 ✅ : pivot -> 기획 큰 틀 잡음. Document Understanding(OCR), Video Understanding 사용 시도할 예정임.
-- DB SQL 초기데이터 등록  ➡️ : 혜지가 남아서 진행 중이었고, 내일 아침까지 init-db.sql 파일 생성 예정.
+- DB SQL 초기데이터 등록 ✅ : 혜지가 init-db.sql 파일 구성.
 - 역할 분담 ✅ : 각자 맡아서 개발할 Service 나눴고, 각자 맡은 Service 개발 착수함.
 - User, Location Service 간단 구현 ➡️ : 나영이 남아서 진행 중이었고, User 됐고, Location까지 내일 아침까지 구현 완료 예정.
 - API 명세서 최종 확인, 오타 확인 ➡️ : 현지가 남아서 진행 중이었고, 내일 아침까지 확인 완료 예정.
 - Appointment Service 간단 구현 ➡️ : 태규가 남아서 진행 중이었고, 내일까지 구현 완료 예정.
 
 ### 9/9 (화)
-- User, Location Service 간단 구현 완료.
-- Appointment, Guest, Feedback, Notification: 구현 절반 완료  
-- Recommendation: 구현 시작  
+- DB 구조 최종 수정 및 픽스 ✅ : 오전 팀 회의
+- API 명세서 최종 수정 및 픽스 ✅ : 오전 팀 회의
+- Azure server & web app 환경변수 설정 최종 ✅ : 나영
+- CI/CD 설정 ✅ : 나영
+- User Service ✅ , Location Service ➡️ : 나영 구현 (로컬에서 확인 -> azure 서버로 확인 필요)
+- Appointment Service ➡️ : 태규 구현 
+- Guest Service ➡️ : 혜지 구현 
+- Notification Service ➡️ : 현지 구현
+- Recommendation Service : 구현 
 
 ### 9/10 (수)
 - Appointment, Guest, Feedback, Notification: 구현 완료  
-- Recommendation: 구현 절반 완료  
+- Recommendation: 구현 시작
 
 ### 9/11 (목)
 - Appointment, Guest, Feedback, Notification, Recommendation: Azure 배포 및 트러블슈팅  
