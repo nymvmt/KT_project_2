@@ -34,7 +34,7 @@
 
 [심화 구현]
 - 전체 front-end ➡️ : 현지가 git repository 파고 + 기획 + Next.js로 코드 구현까지 진행 중
-- Azure OpenAI ✅ : 활용한 익명 닉네임 생성기 ➡️ : 나영 구현 중
+- Azure OpenAI ➡️ : 활용한 익명 닉네임 생성기 ➡️ : 나영 구현 중
 
 [목표]
 - Appointment, Guest, Feedback, Notification: 구현 완료  
