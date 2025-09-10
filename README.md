@@ -20,14 +20,23 @@
 - API 명세서 최종 수정 및 픽스 ✅ : 오전 팀 회의
 - Azure server & web app 환경변수 설정 최종 ✅ : 나영
 - CI/CD 환경변수와 docker profile, github secrets 설정 ✅ : 나영
+
+[기본 구현 + 배포]
 - User Service ✅ : 나영 구현 완료 + Azure 배포 완료
-- Location Service ➡️ : 나영 구현 완료 + Azure 배포 안 됨 ㅠㅠ
-- Appointment Service ✅ : 태규 구현 완료 + Azure 배포 완료
-- Guest Service ➡️ : 혜지 구현 완료 + Azure 배포 안 됨 ㅠㅠ
-- Notification Service ✅ : 현지 구현 완료 + Azure 배포 완료
-- Recommendation Service ➡️ : 나영 구현 아직 안 함 + Azure 배포 완료 
 
 ### 9/10 (수)
+[기본 구현 + 배포]
+- Location Service ➡️ : 나영 구현 완료 + Azure 배포 안 됨 ㅠㅠ -> 태규가 배포해줄 예정임
+- Appointment Service ➡️ : 태규 구현 진행 중 + Azure 배포 완료
+- Guest Service ➡️ : 혜지 구현 완료 + Azure 배포 안 됨 ㅠㅠ
+- Notification Service ✅ : 현지 구현 완료 + Azure 배포 완료
+- Recommendation Service ⛔️ : 나영 구현 아직 안 함 + Azure 배포 완료
+
+[심화 구현]
+- 전체 front-end ➡️ : 현지가 git repository 파고 + 기획 + Next.js로 코드 구현까지 진행 중
+- Azure OpenAI ✅ : 활용한 익명 닉네임 생성기 ➡️ : 나영 구현 중
+
+[목표]
 - Appointment, Guest, Feedback, Notification: 구현 완료  
 - Recommendation: 구현 시작
 
