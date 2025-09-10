@@ -19,12 +19,13 @@
 - DB 구조 최종 수정 및 픽스 ✅ : 오전 팀 회의
 - API 명세서 최종 수정 및 픽스 ✅ : 오전 팀 회의
 - Azure server & web app 환경변수 설정 최종 ✅ : 나영
-- CI/CD 설정 ✅ : 나영
-- User Service ✅ , Location Service ➡️ : 나영 구현 (로컬에서 확인 -> azure 서버로 확인 필요)
-- Appointment Service ➡️ : 태규 구현 
-- Guest Service ➡️ : 혜지 구현 
-- Notification Service ➡️ : 현지 구현
-- Recommendation Service : 구현 
+- CI/CD 환경변수와 docker profile, github secrets 설정 ✅ : 나영
+- User Service ✅ : 나영 구현 완료 + Azure 배포 완료
+- Location Service ➡️ : 나영 구현 완료 + Azure 배포 안 됨 ㅠㅠ
+- Appointment Service ✅ : 태규 구현 완료 + Azure 배포 완료
+- Guest Service ➡️ : 혜지 구현 완료 + Azure 배포 안 됨 ㅠㅠ
+- Notification Service ✅ : 현지 구현 완료 + Azure 배포 완료
+- Recommendation Service ➡️ : 나영 구현 아직 안 함 + Azure 배포 완료 
 
 ### 9/10 (수)
 - Appointment, Guest, Feedback, Notification: 구현 완료  
