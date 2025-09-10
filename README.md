@@ -27,7 +27,7 @@
 ### 9/10 (수)
 [기본 구현 + 배포]
 - Location Service ➡️ : 나영 구현 완료 + Azure 배포 안 됨 ㅠㅠ -> 태규가 배포해줄 예정임 ㅎㅎㅎㅎㅎㅎㅎㅎㅎ:)
-- Appointment Service ➡️ : 태규 구현 진행 중 + Azure 배포 완료
+- Appointment Service ✅ : 태규 구현 진행 중 + Azure 배포 완료
 - Guest Service ➡️ : 혜지 구현 완료 + Azure 배포 안 됨 ㅠㅠ
 - Notification Service ✅ : 현지 구현 완료 + Azure 배포 완료
 - Recommendation Service ⛔️ : 나영 구현 아직 안 함 + Azure 배포 완료
