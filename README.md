@@ -65,9 +65,6 @@
    - 만남 장소 조회 서비스  
    - [리포지토리 바로가기](https://github.com/nymvmt/LocationService)
 
-5. **Feedback Service**
-   - 모임 피드백 CRUD 서비스  
-   - [리포지토리 바로가기](https://github.com/nymvmt/FeedbackService)
 
 6. **Notification Service**
    - 게스트 도착 예정 시각 알림(호스트 페이지 팝업 표시)  
@@ -76,6 +73,11 @@
 7. **Recommendation Service**
    - 사용자 맞춤 약속 추천 서비스  
    - [리포지토리 바로가기](https://github.com/nymvmt/RecommendationService)
+  
+---
+5. **Feedback Service**
+   - 모임 피드백 CRUD 서비스  
+   - [리포지토리 바로가기](https://github.com/nymvmt/FeedbackService)
 
 ---
 
