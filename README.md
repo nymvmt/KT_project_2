@@ -85,6 +85,7 @@
 6. **FrontEnd**
    - 프론트엔드 통합 관리
    - https://github.com/jennnif/koffeekonnect-frontend.git
+   - main 브랜치가 최종 브랜치
   
 ---
 +. **Feedback Service**
