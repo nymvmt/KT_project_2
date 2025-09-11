@@ -84,7 +84,7 @@
 
 6. **FrontEnd**
    - 프론트엔드 통합 관리
-   - https://github.com/jennnif/coffeechat-frontend
+   - https://github.com/jennnif/koffeekonnect-frontend.git
   
 ---
 +. **Feedback Service**
