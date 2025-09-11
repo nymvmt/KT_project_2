@@ -41,7 +41,8 @@
 - Recommendation: 구현 시작
 
 ### 9/11 (목)
-- Appointment, Guest, Feedback, Notification, Recommendation: Azure 배포 및 트러블슈팅  
+- FE-BE 연결 중 ➡️ : 나영
+- Appointment, Guest, Feedback, Notification, Recommendation ➡️ : Azure 배포 및 트러블슈팅  
 - Recommendation: 구현 완료  
 
 ### 9/12 (금)
