@@ -33,7 +33,7 @@
 - Recommendation Service ⛔️ : 나영 구현 아직 안 함 + Azure 배포 완료
 
 [심화 구현]
-- 전체 front-end ➡️ : 현지가 frontend git repository 파고 + 화면설계/flow 기획 + Next.js로 코드 구현까지 진행 중
+- 전체 front-end ✅ : 현지가 frontend git repository 파고 + 화면설계/flow 기획 + Next.js로 코드 초안 구현까지 진행 중
 - Azure AI Foundry_OpenAI ➡️ : 활용한 익명 닉네임 생성기 ➡️ : 나영 구현 중
 
 [목표]
@@ -41,9 +41,13 @@
 - Recommendation: 구현 시작
 
 ### 9/11 (목)
-- FE-BE 연결 중 ➡️ : 나영
-- Appointment, Guest, Feedback, Notification, Recommendation ➡️ : Azure 배포 및 트러블슈팅  
-- Recommendation: 구현 완료  
+- Appointment, Guest, User, Location :
+   - Azure 배포 ✅ 전체
+   - FE 와 BE 연결 ✅ 나영 
+   - 트러블슈팅 ➡️ 전체
+- Recommendation: 나영 환경 설정 완료 ✅ + 현지 OCR 기능 구현 완료 ✅ + 서비스 로직 정돈 및 FE 연결 필요 ➡️
+- happy path 만들기
+
 
 ### 9/12 (금)
 - Azure 배포 완료  
