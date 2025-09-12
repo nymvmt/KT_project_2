@@ -40,6 +40,8 @@
   
 ---
 ### ✅ 아키텍처
+- 배포:Azure Web App + Azure Database for MySQL flexible server
+- CI/CD: Docker + Github Webflow 사용
 ![IMG_0552](https://github.com/user-attachments/assets/650c1eee-e32f-4db4-a028-0b3b93d945c2)
 
 
