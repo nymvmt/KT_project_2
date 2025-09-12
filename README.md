@@ -1,9 +1,14 @@
 # ☕ KT_APR-B_FullStack_Project2 (Team 1)
+
 사내 커피챗을 쉽고 즐겁게 ! 
 - 재밌는 자기소개부터 약속 예약, 즐거운 정산까지
 - 참여자 모두의 행복과 더 나아가 사내 소통 활성화를 위한 가장 완벽한 서비스
 ---
-## ⭐️ 개요
+## 📌 집계 리포지토리
+- [KT Project 2](https://github.com/nymvmt/KT_project_2.git)
+
+---
+## ⭐️ 서비스 개요
 ### ✅ 프로젝트 비전/ 목표
 **AI 기반 사내 커피챗을 통해 열린 사내 문화 형성을 위한 즐거운 경험을 제공한다.**
 
@@ -25,6 +30,7 @@
   
 ⭐️ 장소 기반, 취미 기반 매칭으로 누구나 만날 수 있는 서비스이자 영수증 인식 기능을 통한 랜덤 정산 서비스로 편리함과 재미 모두 확보 
 
+  
 ---
 ### ✅ 아키텍처
 ![IMG_0552](https://github.com/user-attachments/assets/650c1eee-e32f-4db4-a028-0b3b93d945c2)
@@ -77,9 +83,15 @@
 - **Appointment&Front(연결)** : 임태규  
 - **Guest&image-python** : 김혜지  
 - **Recommendation&Frontend** : 황현지
+
+
 ---
-## 📌 집계 리포지토리
-- [KT Project 2](https://github.com/nymvmt/KT_project_2.git)
+### ✅ 개발 순서
+- 애저 배포 환경변수 노션에 정리(0908)
+- 깃허브 프론트엔드 레포 커밋메시지 새벽까지...
+- 다들 각자 애저 웹앱으로 api 던져보면서 json response 확인 웹앱 도메인
+- 커서 커맨드에서 개발
+- 필요에 따라 각자 로컬에서도 개발환경 구축
 
 ---
 ## 🗓️ 작업 계획
