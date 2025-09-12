@@ -94,7 +94,7 @@
 - Appointment Service ✅ : 태규 구현 진행 중 + Azure 배포 완료
 - Guest Service ✅ : 혜지 구현 완료 + Azure 배포 완료
 - Notification Service ✅ : 현지 구현 완료 + Azure 배포 완료
-- Recommendation Service ⛔️ : 나영 구현 아직 안 함 + Azure 배포 완료
+- Recommendation Service ✅ : 나영 구현 아직 안 함 + Azure 배포 완료
 
 [심화 구현]
 - 전체 front-end ✅ : 현지가 frontend git repository 파고 + 화면설계/flow 기획 + Next.js로 코드 초안 구현 완료
@@ -109,15 +109,19 @@
    - Azure 배포 ✅ 전체
    - FE 와 BE 연결 ✅ 나영 
    - 트러블슈팅 ➡️ 전체
-- Recommendation: 나영 환경 설정 완료 ✅ + 현지 OCR 기능 구현 완료 ✅ + 서비스 로직 정돈 및 FE 연결 필요 ➡️ 별개의 프론트엔드 로컬 구동까지 완료 
--    ai 환경설정✅ : 현지
+- Recommendation:
+  - Azure 웹앱 배포 / DB 연결 및 환경 변수 설정 완료 ✅ 나영
+  -  Azure Document Understanding(OCR) 환경 변수 설정 및 기능 구현 완료 ✅ 현지
+  -  테스트용 별개의 프론트엔드 로컬 구동까지 완료 ✅
+  -  서비스 로직 정돈 및 FE 연결 필요 ➡️
+-    Azure AI Foundry 활용한 그림일기 서비스 환경 변수 설정 및 기능 구현 완료 ✅ 혜지
+-    스케줄러를 통한 통신 공부 및 구현 설계 ✅ 태규
 
 ### 9/12 (금)
-- Azure 배포 완료  
-- 시연 영상 제작  
-- 보고 문서 정리  
-- 발표 자료 작성  
-- 최종 발표  
+#아침부터 시작된 프론트엔드 처음부터 다시 짜서 백엔드랑 연결하기 ✅✅✅✅✅✅✅✅✅✅✅
+- 시연 영상 제작 ✅
+- 보고 문서 / 발표 자료 정리 ✅ 
+- 최종 발표 ✅ :) 
 ---
 
 ## 🔧 주요 기능 & 서비스별 리포지토리
