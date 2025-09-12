@@ -47,9 +47,77 @@
    - 트러블슈팅 ➡️ 전체
 - Recommendation: 나영 환경 설정 완료 ✅ + 현지 OCR 기능 구현 완료 ✅ + 서비스 로직 정돈 및 FE 연결 필요 ➡️
 -    ai 환경설정✅ : 현지
-- happy path 만들기
 
+### 9/12 (금)
+- Azure 배포 완료  
+- 시연 영상 제작  
+- 보고 문서 정리  
+- 발표 자료 작성  
+- 최종 발표  
 
-### 9/부 관여
+---
 
+## 🚀 프로덕트 소개
+- **사내 커피챗 장려를 위한 커피타임 요청 서비스**
+한줄 소개: 사내 커피챗을 쉽고 즐겁게 — 재밌는 자기소개부터 약속 예약, 즐거운 정산까지 모두의 행복과 더 나아가 사내 소통 활성화를 위한 가장 완벽한 서비스 
+---
+
+## 🔧 주요 기능 & 서비스별 리포지토리
+1. **User Service**
+   - 사용자 등록 서비스  
+   - [리포지토리 바로가기](https://github.com/nymvmt/UserService)
+
+2. **Appointment Service**
+   - 약속 CRUD 서비스  
+   - [리포지토리 바로가기](https://github.com/nymvmt/AppointmentService)
+
+3. **Guest Service**
+   - 참가자 CRUD 및 상태 관리 서비스  
+   - [리포지토리 바로가기](https://github.com/nymvmt/GuestService)
+
+4. **Location Service**
+   - 만남 장소 조회 서비스  
+   - [리포지토리 바로가기](https://github.com/nymvmt/LocationService)
+
+5. **Recommendation Service**
+   - 영수증 분석 및 랜덤 정산 서비스 
+   - [리포지토리 바로가기](https://github.com/nymvmt/RecommendationService)
+  
+---
+
+6. **FrontEnd**
+   - 프론트엔드 통합 관리
+   - https://github.com/jennnif/koffeekonnect-frontend.git
+   - main 브랜치가 최종 브랜치
+  
+7. **Recommendation frontend**
+  - recommendation 프론트엔드
+  - https://github.com/jennnif/koffeekonnect-frontend.git
+  - feature/file-upload-only 브랜치 
+  
+---
++. **Feedback Service**
+   - 모임 피드백 CRUD 서비스
+   - 중간 기획 변경으로 인해 삭제 
+   - [리포지토리 바로가기](https://github.com/nymvmt/FeedbackService)
+
+++. **Notification Service**
+   - 게스트 도착 예정 시각 알림(호스트 페이지 팝업 표시)
+   - 중간 기획 변경으로 인한 appointment service로의 통합
+   - [리포지토리 바로가기](https://github.com/nymvmt/NotificationService)
+
+---
+
+## 📊 아키텍처 & 협업 문서
+- **MSA 보드**: [Miro 링크](https://miro.com/app/board/uXjVJPRLAtY=/?share_link_id=41447987665)  
+- **프로젝트 노트**: [Notion 링크](https://www.notion.so/2616156a6141802cb94acf498b0e5df8?source=copy_link)
+
+---
+
+## 👥 역할 분담
+- **User&Location&nickname-python** 김나영  
+- **Appointment** 임태규  
+- **Guest&image-python** 김혜지  
+- **Recommendation(+front)** 황현지
+- **Frontend(통합)** 전부 관여  
 ---
