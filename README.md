@@ -1,4 +1,4 @@
-# ☕ KT_APR-B_FullStack_Project2 (Team 1)
+![IMG_0542](https://github.com/user-attachments/assets/efb8a931-f01d-4a79-8224-afcd01532f44)# ☕ KT_APR-B_FullStack_Project2 (Team 1)
 사내 커피챗을 쉽고 즐겁게 ! 
 - 재밌는 자기소개부터 약속 예약, 즐거운 정산까지
 - 참여자 모두의 행복과 더 나아가 사내 소통 활성화를 위한 가장 완벽한 서비스
@@ -180,8 +180,7 @@
 
 ![IMG_0473](https://github.com/user-attachments/assets/7defe150-0116-4eb7-8d59-92851aca15b6)
 
-![Uploading IMG_0542.jpeg…]()
-
+![IMG_0542](https://github.com/user-attachments/assets/e72a9688-c415-49b5-a1fa-60c3412702ca)
 
 
 <img width="719" height="762" alt="image" src="https://github.com/user-attachments/assets/6966fe43-7b0c-414e-bdd8-acfc87f8ddc3" />
