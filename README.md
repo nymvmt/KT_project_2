@@ -1,4 +1,4 @@
-![IMG_0542](https://github.com/user-attachments/assets/efb8a931-f01d-4a79-8224-afcd01532f44)# ☕ KT_APR-B_FullStack_Project2 (Team 1)
+# ☕ KT_APR-B_FullStack_Project2 (Team 1)
 사내 커피챗을 쉽고 즐겁게 ! 
 - 재밌는 자기소개부터 약속 예약, 즐거운 정산까지
 - 참여자 모두의 행복과 더 나아가 사내 소통 활성화를 위한 가장 완벽한 서비스
