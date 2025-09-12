@@ -175,3 +175,6 @@
 - **프로젝트 노트**: [Notion 링크](https://www.notion.so/2616156a6141802cb94acf498b0e5df8?source=copy_link)
 
 ---
+
+<img width="719" height="762" alt="image" src="https://github.com/user-attachments/assets/6966fe43-7b0c-414e-bdd8-acfc87f8ddc3" />
+
